@@ -1,6 +1,6 @@
 # Hi 👋🏻
 ## Here's my Python and Data Science Technical Portfolio. 
-This portfolio is a reflection of my journey to learn Python and Data Science. Thank you to the Hyperiondev team for their significant help in achieving my objectives. 
+This portfolio is a reflection of my journey to learn Python, Data Science and ML. Thank you to the Hyperiondev team for their help in achieving my objectives and goals. 
 
 ## Overview 
 - CMD, Terminal and it's commands: 
