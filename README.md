@@ -4,12 +4,17 @@ This portfolio is a reflection of my journey to learn Python, Data Science and M
 
 ## Overview 
 - CMD, Terminal and it's commands: 
-- Setup a learning envoirnment (e.g.Python instalation with all extensions):
+- Setup a learning envoirnment (e.g.Python installation with all extensions):
 - Setup a Github account and Github installation: 
 - Python 🐍:
-  -  Iterations
-  -  Defining functions
-  -  Different datat types and conditional statements
+  -  Iterations 🔗
+  -  Defining Functions 🧩⚙
+  -  Different Data types and Conditional statements 🧱🔧🔨
+  -  File I/O Operations and Strings, Lists and Dictionaries 📂📃📑
+  -  Objected Oriented Programming 🅾⭕🅿
+- Data Science 📚📦📇💳🧬:
+  -  Datasets and DataFrames 💽📼🏷🗃
+  -  Data Analysis and Visualisation 📊📈
    
-I am still learning till date and will continue to update as I progress through my learning journey....🙂🙂🙂
+I am still working and learning as an Intern, till date and will continue to update as I progress through my learning journey....🙂🙂🙂
 
